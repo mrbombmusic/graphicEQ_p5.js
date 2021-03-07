@@ -1,3 +1,4 @@
+# You will need to use your own samples in place of these
 hats = "/Users/admin/Music/SAmples/808_drum_kit/hihats/"
 kicks = "/Users/admin/Music/SAmples/808_drum_kit/kicks/"
 snares = "/Users/admin/Music/SAmples/808_drum_kit/snares"
