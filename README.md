@@ -6,3 +6,6 @@ The code is set up to react to sound played directly from your own computer by c
 In order for this to work, you need to download Soundflower. https://soundflower.en.softonic.com/mac
 
 I recommend running the sketch in Firefox which will give you a choice of where the audion input is coming from. When you run the sketch, allow Soundflower as the audio input. Then you can play audio from any source on your computer and it will be picked up by the sketch.
+
+Here is a demo of this skecth being used with a beat made in Sonic Pi: https://youtu.be/4bnMky6u7a4
+Sonic Pi Code is also included in this repo.
